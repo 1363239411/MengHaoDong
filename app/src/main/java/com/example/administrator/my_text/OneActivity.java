@@ -16,6 +16,7 @@ public class OneActivity extends AppCompatActivity {
         initView();
     }
 
+    //孟浩东
     private void initView() {
         mDayPickerView = (DayPickerView) findViewById(R.id.mDayPickerView);
     }
