@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
+//上传
         WaveSideBar waveSideBar = (WaveSideBar) findViewById(R.id.side_bar);
         waveSideBar.setTextColor(Color.BLACK);
         waveSideBar.setMaxOffset(50);//字母偏移量
